@@ -25,9 +25,9 @@ In my current setup, I am using 4 buttons and a display. The top button is Red, 
   * Ethernet Server Port: 80 
 * Pressing Left and Right buttons will restore network settings to default.
   * Button and LED Pins
-    *Go Button/LED: 30/42
-    *Stop Button/LED: 31/41
-    *Previous Button/LED: 32/43
-    *Next Button/LED: 33/40
-    *I2C Diaply wired to SDA and SCL Pins
-    *Pins 4,10,11,12,13 are reserved for ethernet shield communication
+    * Go Button/LED: 30/42
+    * Stop Button/LED: 31/41
+    * Previous Button/LED: 32/43
+    * Next Button/LED: 33/40
+    * I2C Diaply wired to SDA and SCL Pins
+    * Pins 4,10,11,12,13 are reserved for ethernet shield communication
