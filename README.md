@@ -30,4 +30,4 @@ In my current setup, I am using 4 buttons and a display. The top button is Red, 
     * Previous Button/LED: 32/43
     * Next Button/LED: 33/40
     * I2C Diaply wired to SDA and SCL Pins
-    * Pins 4,10,11,12,13 are reserved for ethernet shield communication
+    * Pins 51,52,53,54,10,4 are reserved for ethernet shield communication
